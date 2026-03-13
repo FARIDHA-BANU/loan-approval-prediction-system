@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">AI Loan Approval Prediction System</h1>
 
 <p align="center">
@@ -231,3 +232,7 @@ B.Tech CSE (Data Science)
 # License
 
 This project is developed for **educational and learning purposes**.
+=======
+# loan-approval-prediction-system
+Machine Learning based web application that predicts loan approval using financial risk indicators.
+>>>>>>> a5ba3b95fabd1ecd886f7f2f783ca5bafca8032c
